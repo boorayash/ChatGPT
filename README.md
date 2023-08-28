@@ -7,8 +7,6 @@ The frontend code is built using standard web technologies such as HTML and CSS,
 
 A clean and intuitive user interface that allows users to easily interact with the chatbot.
 
-Support for a range of user inputs, including text, voice, and images.
-
 Customizable settings and preferences to personalize the chatbot experience.
 
 Please note that this is a frontend-only repository and does not include any backend code or functionality. You can use this repository as a starting point for building your own Chatbot application or integrate it into an existing project.
